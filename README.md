@@ -1,5 +1,4 @@
 # Student
-# Student Management System
 
 ## Overview
 This project is a **Student Management System** written in Java. It allows users to add, display, search, update, and delete student records. The project follows **Object-Oriented Programming (OOP)** principles, ensuring encapsulation by using **getter and setter methods**.
